@@ -36,5 +36,5 @@
 // let num=BigInt(12345678901234567890);
 // console.log(typeof(num));
 
-let name=null;
-console.log(typeof(name));
+// let name=null;
+// console.log(typeof(name));
